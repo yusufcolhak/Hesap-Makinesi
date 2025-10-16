@@ -17,5 +17,7 @@ Temel Özellikler:
 Kullanılan Teknolojiler:
 
 ● HTML5
+
 ● CSS
+
 ● Javascript
